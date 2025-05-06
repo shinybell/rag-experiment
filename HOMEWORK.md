@@ -37,4 +37,6 @@ https://ja.wikipedia.org/wiki/2025%E5%B9%B4
 
 ## 結果の分析と考察
 
+### ベースラインとなる withoutRAG モデルの回答
+
 ## 発展的な改善案
